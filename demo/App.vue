@@ -17,7 +17,7 @@
       <mdb-navbar-toggler>
         <mdb-navbar-nav right>
           <mdb-nav-item to="/css">
-            <strong>Home</strong>
+            <strong>CSS</strong>
           </mdb-nav-item>
           <mdb-nav-item to="/components">
             <strong>Components</strong>
